@@ -1,0 +1,8 @@
+
+.post {
+  margin-bottom: 40px;
+  border: 1px solid rgba(255, 99, 71, 0.4);
+  border-radius: 5px;
+  overflow: hidden;
+  background-color: rgb(147, 206, 221);
+}
