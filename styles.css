@@ -1,8 +1,65 @@
-
 .post {
-  margin-bottom: 40px;
-  border: 1px solid rgba(255, 99, 71, 0.4);
-  border-radius: 5px;
-  overflow: hidden;
-  background-color: rgb(147, 206, 221);
+    border: 7px solid black;
+    width: 500px;
+    margin: 0 auto;
+    background-color:cyan;
+    margin-top: 2px;
+}
+
+.post-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.insta-icon {
+    font-size: 50px;
+    margin: 5px;
+    border-top-width: 3px solid black;
+}
+
+.elipsis {
+    font-size: 50px;
+    margin: 5px;
+}
+
+.insta-nombre {
+    font-family: "Delius", cursive;
+    font-weight: 400;
+    font-style: normal;
+    margin: auto 0;
+    margin-left: 15px ;
+    font-size: 20px;
+}
+
+.image {
+    width: 100%;
+}
+
+.post-footer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.icon {
+    font-size: 25px;
+    margin: 2px;
+}
+
+.icons-container {
+    margin-left: 5px;
+}
+
+.elipse {
+    font-size: 25px;
+    margin:2px;
+    margin-right: 5px;
+}
+
+.descripcion {
+    font-family: "Delius", cursive;
+    font-weight: 400;
+    font-style: normal;
+    margin: auto 0;
+    margin-left: 15px ;
+    font-size: 15px;
 }
